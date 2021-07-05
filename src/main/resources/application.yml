@@ -1,0 +1,23 @@
+my:
+  app:
+    pid: 100
+    pname: mobile
+    pcost: 500
+    
+    li:
+     - RED
+     - GREEN
+     - YELLO
+    arr:
+     - Ajinkya
+     - Ajay
+     - Amul
+    mp:
+     k1: val1
+     k2: val2
+     k3: val3
+    pr:
+     K1: V1
+     K2: V2
+     K3: V3
+      
